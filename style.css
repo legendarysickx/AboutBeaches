@@ -1,0 +1,22 @@
+#s1{
+    text-align: center;
+    background-color: #eeff41;
+    padding: 50px;
+    margin: 20px;
+}
+
+body{
+    background-color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    color: green;
+}
+.s2{
+    width: 80%;
+    background-color: #eeff41;
+    padding: 20px;
+    display: inline-block;
+    text-align: left;
+}
